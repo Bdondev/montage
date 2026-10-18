@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "skills": {
+    "broll": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/broll/SKILL.md",
+      "computedHash": "8168213d7f1d5c2f9abdf4dc1c349dee537534c9bdc22d57ef271a087f1ecba4"
+    },
+    "clips": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clips/SKILL.md",
+      "computedHash": "119b5a8fbcd6f908e755c5b36cbe2aabd18931506f35c863f1d4ffde70688f2c"
+    },
+    "codex-images": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/codex-images/SKILL.md",
+      "computedHash": "426b3a294db29e1c3167943a697f40280f5208a88d541294bb7021e939abf269"
+    },
+    "editing": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/editing/SKILL.md",
+      "computedHash": "44a887115e91ebfed41b344a7b0c32031f3506b6d70f730d3b6c1d35fdb5767d"
+    },
+    "insta-audit": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/insta-audit/SKILL.md",
+      "computedHash": "14b4d11de87ac67ee05fd4b0b23a341d3c4471d2d2c04a9756272c5c8978afa5"
+    },
+    "outliers": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/outliers/SKILL.md",
+      "computedHash": "aef098e5ffe846e5ae5bb43d07f691780e950242582f0e922cb177158be387b6"
+    },
+    "publish": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/publish/SKILL.md",
+      "computedHash": "1eef16bd2736f005efbe84aef16cf6e8f6c2498bdc9c0e84588841df4d1bad36"
+    },
+    "short-editing": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/short-editing/SKILL.md",
+      "computedHash": "4fee73751214ef02064b375eb978db637c32f6e039c14c56d15424e187c3d7d6"
+    },
+    "short-translate": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/short-translate/SKILL.md",
+      "computedHash": "fe359998aeed35de085067093fb72d99124d6cd2cbe83bbd27882b0f2416817e"
+    },
+    "steal": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/steal/SKILL.md",
+      "computedHash": "642448c17d3a5c286d45ae18a902b3279a0768ea9d150e762ab0965a6ea44551"
+    },
+    "studio-script": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/studio-script/SKILL.md",
+      "computedHash": "a9e60eda9aacd699e144763f445566ed4f40da909bc6111b7464d059a5f8a50f"
+    },
+    "studio-setup": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/studio-setup/SKILL.md",
+      "computedHash": "c60e31b0f538cd0d171de9ad45cc14c8a1ca147c166f666aa8cb7301cd2bfce2"
+    },
+    "vox": {
+      "source": "Melvynx/video-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vox/SKILL.md",
+      "computedHash": "b550f3f5816dcc559ce729368c5516d857528a0749b54e1ed8e61862a8a6136a"
+    }
+  }
+}

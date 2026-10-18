@@ -1,0 +1,19 @@
+video-agent/takes/
+video-agent/edits/**/*.mp4
+video-agent/edits/**/assets/
+video-agent/edits/**/stills/
+.agents/skills/short-editing/.runtime/
+.agents/skills/short-editing/engine/node_modules/
+**/node_modules/
+video-agent/.tmp/
+video-agent/.env
+video-agent/.env.*
+!video-agent/.env.example
+
+# Keep rendered media out of source control, including formats beyond MP4.
+video-agent/edits/**/output/*.mp4
+video-agent/edits/**/output/*.mov
+video-agent/edits/**/output/*.m4v
+video-agent/edits/**/output/*.mkv
+video-agent/edits/**/output/*.webm
+video-agent/edits/**/output/*.avi
